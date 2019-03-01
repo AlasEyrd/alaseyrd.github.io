@@ -10,6 +10,10 @@ table.dl {
 	width: 300px;
 	text-align: center;
 }
+table.modlist {
+	width: 400px;
+	text-align: center;
+}
 td.header {
 	text-align: left;
 	font-size: 40px;
@@ -21,12 +25,13 @@ td.headerlinks {
 }
 
 a:link, a:visited {
-	color: #2a7ae2;
+	color: #2E8B57;
 	text-decoration: none;
 }
 a.header:link, a.header:visited {
 	color: black;
 	text-decoration: none;
+	margin-right: 20px;
 }
 
 a:link:hover, a:visited:hover {
@@ -37,11 +42,14 @@ a.dl {
 	font-weight: bold;
 }
 a.page-link{
-	margin-right: 20px;
+	
 }
 .big {
 	font-size: 32px;
 }
 li.main {
 	margin-bottom: 5px;
+}
+tr.modlist{
+	line-height:20px;
 }

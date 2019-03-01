@@ -19,7 +19,12 @@ td.header {
 td.headerlinks {
 	float: right;
 }
+
 a:link, a:visited {
+	color: #2a7ae2;
+	text-decoration: none;
+}
+a.header:link, a.header:visited {
 	color: black;
 	text-decoration: none;
 }

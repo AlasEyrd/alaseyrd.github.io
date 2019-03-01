@@ -33,3 +33,10 @@ a.dl {
 a.page-link{
 	margin-right: 20px;
 }
+.big {
+	font-size: 36px;
+}
+li.main {
+	margin-bottom: 5px;
+	margin-top: 5px;
+}

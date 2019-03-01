@@ -1,22 +1,23 @@
-table {
+table.main {
 	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 10px;
 	width: 800px;
 }
-tr {
-	line-height: 48px;
+table.dl {
+	width: 300px;
+	text-align: center;
 }
 td.header {
 	text-align: left;
-	font-size: 48px;
+	font-size: 40px;
 	font-weight: bold;
 	line-height: 54px;
 }
 td.headerlinks {
 	float: right;
-	line-height: 54px;
-	vertical-align: top;
 }
 a:link, a:visited {
 	color: black;
@@ -34,9 +35,8 @@ a.page-link{
 	margin-right: 20px;
 }
 .big {
-	font-size: 36px;
+	font-size: 32px;
 }
 li.main {
 	margin-bottom: 5px;
-	margin-top: 5px;
 }

@@ -19,7 +19,9 @@ td.header {
 td.headerlinks {
 	float: right;
 }
-
+td.aboutname {
+	width: 40%;
+}
 a:link, a:visited {
 	color: #2E8B57;
 	text-decoration: none;

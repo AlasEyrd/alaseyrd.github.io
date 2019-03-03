@@ -17,7 +17,6 @@ Updated SilkySpawners to 1.0.1
 Removed BetterCompass
 Removed InfinityFix
 Added AnvilFix 1.1.2
-Added REI Addons 1.0.4
 Added Stockpile 0.5.1
 Added Fabric Language Scala 0.1.0 build 5
 

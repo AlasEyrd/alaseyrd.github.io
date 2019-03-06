@@ -20,3 +20,11 @@ Added AnvilFix 1.1.2
 Added Stockpile 0.5.1
 Added Fabric Language Scala 0.1.0 build 5
 
+1.1.1 UPCOMING
+Added Torcherino 0.6.37
+Added REI Addons 1.0.5
+Updated Fabric Furnaces to 1.0.1
+Updated Fabric Pokeballs to 1.1.5
+Updated Hwyla to 1.9.10-52
+Updated Roughly Enough Items to 2.3.2.56
+
